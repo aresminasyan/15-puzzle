@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>15.png</file>
+        <file>icon.png</file>
+        <file>Tulips.jpg</file>
+    </qresource>
+</RCC>
